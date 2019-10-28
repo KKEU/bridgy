@@ -2,7 +2,7 @@ PyYAML
 requests
 docopt
 blessings
-inquirer>=2.2.0
+inquirer==2.6.3
 fuzzywuzzy
 boto3
 placebo
